@@ -4,12 +4,12 @@ This repository is a collection of my solutions for the [freeCodeCamp](https://w
 
 ## 🎓 Certifications Progress
 
-| Certification | Status | Link |
-| :--- | :---: | :--- |
-| **Responsive Web Design** | 🏗️ In Progress | [View Projects]([./Responsive-Web-Design](https://github.com/banadhruva/freeCodeCamp-Solutions/tree/main/Responsive%20Web%20Design%20Certification)) |
-| **JS Algorithms & Data Structures** | 🏗️ In Progress | [View Projects]([./JS-Algorithms-Data-Structures](https://github.com/banadhruva/freeCodeCamp-Solutions/tree/main)) |
-| **Front End Development Libraries** | ⏳ To-do | - |
-| **Data Visualization** | ⏳ To-do | - |
+| Certification | Status |
+| :--- | :---: |
+| **Responsive Web Design** | 🏗️ In Progress |
+| **JS Algorithms & Data Structures** | 🏗️ In Progress |
+| **Front End Development Libraries** | ⏳ To-do | 
+| **Data Visualization** | ⏳ To-do |
 
 ## 🛠️ Tech Stack Used
 * **Languages:** HTML5, CSS3, JavaScript (ES6)
