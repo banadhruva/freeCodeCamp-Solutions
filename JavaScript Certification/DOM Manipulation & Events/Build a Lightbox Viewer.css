@@ -1,0 +1,25 @@
+.lightbox {
+  /* Test 9: Fixed positioning */
+  position: fixed;
+  
+  /* Test 10 & 11: Top-left and full viewport */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  
+  /* Test 12: Background color */
+  background-color: rgba(0, 0, 0, 0.8);
+  
+  /* Test 13: Hidden initially */
+  display: none;
+  
+  /* Centering the content inside */
+  justify-content: center;
+  align-items: center;
+}
+
+#lightbox-image {
+  max-width: 90%;
+  max-height: 90%;
+}
