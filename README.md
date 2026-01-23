@@ -13,7 +13,7 @@ This repository is a collection of my solutions for the [freeCodeCamp](https://w
 
 ## 🛠️ Tech Stack Used
 * **Languages:** HTML5, CSS3, JavaScript (ES6)
-* **Frameworks:** React, Bootstrap (planned) 
+* **Frameworks:** React (planned) 
 * **Testing:** freeCodeCamp Test Suite
 
 ## 🚀 Key Projects
