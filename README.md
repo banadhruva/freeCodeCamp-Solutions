@@ -7,7 +7,7 @@ This repository is a collection of my solutions for the [freeCodeCamp](https://w
 | Certification | Status |
 | :--- | :---: |
 | **Responsive Web Design** | 🏗️ In Progress |
-| **JS Algorithms & Data Structures** | 🏗️ In Progress |
+| **JS Algorithms & Data Structures** | Completed |
 | **Front End Development Libraries** | ⏳ To-do | 
 | **Data Visualization** | ⏳ To-do |
 
